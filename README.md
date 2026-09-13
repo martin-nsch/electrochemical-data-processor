@@ -1,7 +1,7 @@
 # electrochemical-data-processor
 *Note: This is a legacy project from 2023. It is included here to showcase my proficiency in using Python for automated data collection and analysis, as well as my hands-on experience working with redox-flow batteries.*
 
-Tool to automate extraction of ECSA and resistances from CV and PEIS for redox flow battery experiments.
+Tool to automate extraction of ECSA from CV and resistances from PEIS and PCGA for redox flow battery experiments.
 Written in python 3.8.8.
 
 ![Set up](set_up.jpeg)
